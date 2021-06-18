@@ -13,7 +13,6 @@ const Footer = () => {
     <footer>
       <Link to="/nemesonOne">Nemeson One</Link>
       <Link to="/nemesonHunt">Nemeson Hunt</Link>
-      <p>Redes</p>
     </footer>
   );
 };
